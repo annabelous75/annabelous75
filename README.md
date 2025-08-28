@@ -19,4 +19,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/anna-belous-data-scientist)
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/anna-belous-data-scientist)[Telegram](@belousaaa) 
