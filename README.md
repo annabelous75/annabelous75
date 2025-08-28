@@ -24,3 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anna-belous-data-scientist)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/belousaaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobannabelous@gmail.com)
+
+### Open to Opportunities 🚀
+I am **passionate about Data Science, Analytics, and AI-driven insights**, and I am currently **open to part-time, project-based, internship, or full-time roles**.  
+I enjoy tackling challenging problems, building data-driven solutions, and collaborating on impactful projects. Always happy to **connect, discuss ideas, or explore exciting opportunities** in analytics, BI, and finance.  
