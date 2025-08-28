@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I`m Anna Belous👋</h3> 
+<h1 align="center">Hi there, I`m Anna Belous👋</h1> 
 
 # Tech Stack
 
